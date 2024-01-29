@@ -1,6 +1,6 @@
 # ketchby
 취미 아마추어들의 정식 클래스 오픈 및 성장을 돕는 웹사이트
-https://github.com/hyunseo3/ketchby/blob/main/README.md
+
 개발 기간 : 2023.07. ~ 2023.08(4주)
 
 
