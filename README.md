@@ -25,6 +25,9 @@
 ### 로그인 & 회원가입
 
 ![image](https://github.com/hyunseo3/ketchby/assets/94173709/83dad03d-1876-4b33-a87b-205e54b71f7d) ![image](https://github.com/hyunseo3/ketchby/assets/94173709/3afc3a02-3e07-49e5-8264-851b0ebbc8cc)
+* Oauth, spring security를 이용하여 카카오 계정과 연동
+* Mail API를 이용한 이메일 인증
+* Ajax를 이용해 사용자가 입력한 아이디의 유무 확인
 
 
 
